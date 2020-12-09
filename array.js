@@ -65,4 +65,3 @@ console.log(fruits.indexOf('🍏'));
 console.log(fruits.lastIndexOf('🍏'));
 
 // 테스트
-// git 
